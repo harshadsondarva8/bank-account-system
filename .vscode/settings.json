@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "conio.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "cwchar": "cpp",
+        "user.h": "c",
+        "windows.h": "c",
+        "auth.h": "c",
+        "console.h": "c",
+        "common.h": "c",
+        "activity.h": "c"
+    }
+}
